@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    text-align: center;
+}
+h1{
+    color: lightskyblue;
+}
+p{
+    font-size: 30px;
+}
+hr{
+    height: 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  background-color: lightskyblue;
+}
