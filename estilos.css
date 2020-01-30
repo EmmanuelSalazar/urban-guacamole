@@ -2,6 +2,8 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 div{
+    margin-right: 25%;
+    margin-left: 25%;
     text-align: center;
 }
 h1{
